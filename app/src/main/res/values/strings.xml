@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Julegaveåpningsimulatoren</string>
+    <string name="click_to_start">Klikk for å ta frem en tilfeldig\njulegave fra under juletreet :)</string>
+    <string name="clicks_to_open">Du må klikke %1$d ganger\npå gaven for å åpne den…</string>
+    <string name="click_to_open">Du må klikke 1 gang på\n gaven for å åpne den!</string>
+    <string name="keep_clicking">Fortsett å klikke!</string>
+    <string name="gift_reveal">Wow! %1$s</string>
+    <string name="god_jul">God jul</string>
+    <string name="ho_ho_ho">Ho! Ho! Ho!</string>
+    <string name="restart">Trykk for å åpne en gave til :)</string>
+    <string name="gift_1">Dasspapir…</string>
+    <string name="gift_2">En RC bil!</string>
+    <string name="gift_3">En Macbook pro!</string>
+    <string name="gift_4">En iPad pro!</string>
+    <string name="gift_5">Lego!</string>
+    <string name="gift_6">Sokker!</string>
+</resources>
