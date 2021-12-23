@@ -154,7 +154,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun getRandomGift(): Int = (1..6).random()
 
-    private fun getRandomRequiredClicksToOpen(): Int = (1..2).random()
+    private fun getRandomRequiredClicksToOpen(): Int = (1..100).random()
 
     private fun getClicksLeftToOpen(): Int = requiredClicks - clickCount
 
